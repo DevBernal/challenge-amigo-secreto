@@ -54,4 +54,4 @@ Agregar animaciones para mejorar la experiencia de usuario.
 
 Este proyecto es de código abierto y puedes usarlo o modificarlo libremente.
 
-¡Diviértete sorteando amigos secretos! 🎉
+¡Diviértete sorteando amigos secretos! 
